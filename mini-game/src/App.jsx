@@ -5,6 +5,16 @@ import GameArea from './components/GameArea';
 import EndScreen from './components/EndScreen';
 import './App.css';
 
+// Utility function to shuffle and pick N items
+function getRandomSubset(arr, n) {
+  const copy = [...arr];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy.slice(0, n);
+}
+
 function App() {
   const [currentRound, setCurrentRound] = useState(1);
   const [userScore, setUserScore] = useState(0);
@@ -15,6 +25,7 @@ function App() {
   const [showResult, setShowResult] = useState(false);
   const [hasSubmitted, setHasSubmitted] = useState(false);
   const [musicData, setMusicData] = useState(null);
+  const [allMusicData, setAllMusicData] = useState(null);
   const [composers, setComposers] = useState([]);
   const [loading, setLoading] = useState(true);
 
@@ -22,10 +33,9 @@ function App() {
     fetch('gameData.json')
       .then((res) => res.json())
       .then((data) => {
-        // Shuffle and pick 5 random items for the game
-        const shuffled = data.musicData.sort(() => 0.5 - Math.random());
+        setAllMusicData(data.musicData);
         const numRounds = 5;
-        setMusicData(shuffled.slice(0, numRounds));
+        setMusicData(getRandomSubset(data.musicData, numRounds));
         setComposers(data.composers);
         setLoading(false);
       });
@@ -93,6 +103,11 @@ function App() {
     setGameEnded(false);
     setShowResult(false);
     setHasSubmitted(false);
+    // Pick 5 new random items from allMusicData
+    if (allMusicData) {
+      const numRounds = 5;
+      setMusicData(getRandomSubset(allMusicData, numRounds));
+    }
   };
 
   if (gameEnded) {
