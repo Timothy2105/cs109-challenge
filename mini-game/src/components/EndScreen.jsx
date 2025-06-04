@@ -3,23 +3,23 @@ const EndScreen = ({ userScore, aiScore, onPlayAgain }) => {
     if (userScore > aiScore) {
       return {
         title: '🎉 You Won! 🎉',
-        message: `Incredible! You beat Mini-Timmy ${userScore}-${aiScore}!
+        message: `Incredible! You beat Mini-Timothy ${userScore}-${aiScore}!
 
-🏆 You have a better ear for classical music than our AI! Mini-Timmy is crying into his circuits right now... 😭🤖`
+🏆 You have a better ear for classical music than our AI! Mini-Timothy is crying into his circuits right now... 😭🤖`,
       };
     } else if (userScore < aiScore) {
       return {
-        title: '🤖 Mini-Timmy Wins! 🤖',
-        message: `Mini-Timmy defeated you ${aiScore}-${userScore}!
+        title: '🤖 Mini-Timothy Wins! 🤖',
+        message: `Mini-Timothy defeated you ${aiScore}-${userScore}!
 
-😅 Don't worry, Mini-Timmy has been trained on thousands of pieces! He's probably cheating anyway... those algorithms are so sneaky! 🕵️‍♂️`
+😅 Don't worry, Mini-Timothy has been trained on thousands of pieces! He's probably cheating anyway... those algorithms are so sneaky! 🕵️‍♂️`,
       };
     } else {
       return {
-        title: '🤝 It\'s a Tie! 🤝',
-        message: `You tied with Mini-Timmy ${userScore}-${aiScore}!
+        title: "🤝 It's a Tie! 🤝",
+        message: `You tied with Mini-Timothy ${userScore}-${aiScore}!
 
-🤯 This is rare! You and Mini-Timmy are perfectly matched! He's requesting a rematch... 🥊🤖`
+🤯 This is rare! You and Mini-Timothy are perfectly matched! He's requesting a rematch... 🥊🤖`,
       };
     }
   };

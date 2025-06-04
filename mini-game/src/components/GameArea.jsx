@@ -10,7 +10,8 @@ const GameArea = ({
   onComposerSelect, 
   onSubmit, 
   result,
-  showResult 
+  showResult,
+  hasSubmitted  // Add this prop
 }) => {
   return (
     <div className="game-area">
@@ -24,6 +25,7 @@ const GameArea = ({
         <PredictionCard 
           aiPrediction={currentData.aiPrediction}
           features={currentData.features}
+          hasSubmitted={hasSubmitted}  // Pass it to PredictionCard
         />
         
         <UserInput
@@ -33,6 +35,7 @@ const GameArea = ({
           onSubmit={onSubmit}
           result={result}
           showResult={showResult}
+          hasSubmitted={hasSubmitted}  // You might also want to pass it to UserInput to disable buttons
         />
       </div>
     </div>

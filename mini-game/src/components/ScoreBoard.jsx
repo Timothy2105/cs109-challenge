@@ -6,7 +6,7 @@ const ScoreBoard = ({ userScore, aiScore }) => {
         <div className="score-number">{userScore}</div>
       </div>
       <div className="score">
-        <h3>Mini-Timmy</h3>
+        <h3>Mini-Timothy</h3>
         <div className="score-number">{aiScore}</div>
       </div>
     </div>
