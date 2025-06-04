@@ -86,8 +86,25 @@ def log_markov_score(seq, pi_c, A_c, chord_to_idx, H):
 
 def main():
     # 1) Load & split pitch counts
-    X, y, filenames = load_pitch_counts('pitch_counts.csv')
-    (X_train, y_train, f_train), (X_val, y_val, f_val), (X_test, y_test, f_test) = split_stratified(X, y, filenames)
+    # 1) Load all pitch counts
+    X_all, y_all, f_all = load_pitch_counts('pitch_counts.csv')
+
+    # 2) Read your own CSVs that specify train/val/test filenames
+    df_train = pd.read_csv('train_set.csv')
+    df_val   = pd.read_csv('val_set.csv')
+    df_test  = pd.read_csv('test_set.csv')
+
+    # 3) Build index masks so we can pull rows from X_all,y_all,f_all
+    idx_all = {fn: i for i, fn in enumerate(f_all)}
+
+    train_idx = [idx_all[fn] for fn in df_train['filename']]
+    val_idx   = [idx_all[fn] for fn in df_val['filename']]
+    test_idx  = [idx_all[fn] for fn in df_test['filename']]
+
+    X_train = X_all[train_idx];  y_train = y_all[train_idx];  f_train = f_all[train_idx]
+    X_val   = X_all[val_idx];    y_val   = y_all[val_idx];    f_val   = f_all[val_idx]
+    X_test  = X_all[test_idx];   y_test  = y_all[test_idx];   f_test  = f_all[test_idx]
+
 
     # 2) Estimate pitch Dirichlet params (use your chosen alpha0; e.g. alpha0=1.0)
     alpha0 = 1.0
