@@ -19,7 +19,7 @@ function App() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('../public/gameData.json')
+    fetch('gameData.json')
       .then((res) => res.json())
       .then((data) => {
         // Shuffle and pick 5 random items for the game
