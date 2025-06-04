@@ -1,0 +1,554 @@
+{
+  "composers": ["beethoven", "chopin", "haydn", "mozart"],
+  "musicData": [
+    {
+      "audio": "https://www.youtube.com/embed/Gj-xTzKYq8g?si=ctYP954sAIjluveY&amp;clip=UgkxFPFnZsS1Fb5sRgmIX1RVfy8y-6McWbP1&amp;clipt=EAAY5YMB",
+      "answer": "chopin",
+      "aiPrediction": "beethoven",
+      "features": {
+        "pitchClasses": "C: 0.05, C#: 0.12, D: 0.11, D#: 0.05, E: 0.08, F: 0.05, F#: 0.16, G: 0.08, G#: 0.05, A: 0.05, A#: 0.07, B: 0.13",
+        "chords": "C:maj: 0, G#:maj: 0, F:maj: 0, G:maj: 0, Bb:maj: 32, Eb:maj: 10, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 0, F#:maj: 16, D:maj: 0, E:maj: 4, Bb:min: 2, A:min: 0, G:min: 0, C#:min: 2, Eb:min: 17, E:min: 20, G#:min: 6, D:min: 0, F#:min: 10, B:min: 36, B:maj: 8"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/VUk3_qTTVg4?si=H15I9SLLpSV86DV3&amp;clip=UgkxuKfxzI_PHBCHHB_Iwhf0UrUIAtms8OTw&amp;clipt=EPPPExiLxRQ",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.05, C#: 0.19, D: 0.02, D#: 0.09, E: 0.02, F: 0.11, F#: 0.12, G: 0.03, G#: 0.12, A: 0.02, A#: 0.17, B: 0.06",
+        "chords": "C:maj: 4, G#:maj: 21, F:maj: 10, G:maj: 20, Bb:maj: 7, Eb:maj: 22, C#:maj: 36, C:min: 3, F:min: 4, A:maj: 14, F#:maj: 136, D:maj: 16, E:maj: 20, Bb:min: 30, A:min: 0, G:min: 0, C#:min: 2, Eb:min: 13, E:min: 0, G#:min: 39, D:min: 0, F#:min: 42, B:min: 2, B:maj: 10"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/VUk3_qTTVg4?si=r5r40gW8hZqvnDLi&amp;clip=UgkxQsfI5rWdBiAagNrEvYuqE46OTbBbdH2y&amp;clipt=EAAYmHU",
+      "answer": "chopin",
+      "aiPrediction": "haydn",
+      "features": {
+        "pitchClasses": "C: 0.08, C#: 0.12, D: 0.03, D#: 0.11, E: 0.04, F: 0.17, F#: 0.08, G: 0.06, G#: 0.11, A: 0.05, A#: 0.13, B: 0.02",
+        "chords": "C:maj: 11, G#:maj: 17, F:maj: 18, G:maj: 18, Bb:maj: 59, Eb:maj: 9, C#:maj: 85, C:min: 9, F:min: 13, A:maj: 16, F#:maj: 18, D:maj: 4, E:maj: 3, Bb:min: 41, A:min: 6, G:min: 13, C#:min: 4, Eb:min: 17, E:min: 6, G#:min: 1, D:min: 4, F#:min: 3, B:min: 1, B:maj: 15"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/4LkXsnEEQmE?si=P9rKBTgGjLoJE5cj&amp;clip=UgkxPx4UJZzQ1P6ovOhF6oX7k_CVZ6mxKZkv&amp;clipt=EAAYmHU",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.01, C#: 0.13, D: 0.21, D#: 0.00, E: 0.10, F: 0.02, F#: 0.14, G: 0.09, G#: 0.06, A: 0.16, A#: 0.01, B: 0.06",
+        "chords": "C:maj: 0, G#:maj: 0, F:maj: 3, G:maj: 0, Bb:maj: 4, Eb:maj: 0, C#:maj: 3, C:min: 0, F:min: 0, A:maj: 43, F#:maj: 1, D:maj: 108, E:maj: 4, Bb:min: 1, A:min: 0, G:min: 8, C#:min: 0, Eb:min: 0, E:min: 16, G#:min: 0, D:min: 0, F#:min: 4, B:min: 8, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/lccVbc05AYA?si=rNhjEXe0Qqfxe3LW&amp;clip=Ugkx5WueLKVW0DKu9eQ2aPPPyIQeM998C8mb&amp;clipt=EAAYmHU",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.21, C#: 0.10, D: 0.03, D#: 0.19, E: 0.05, F: 0.11, F#: 0.01, G: 0.07, G#: 0.11, A: 0.02, A#: 0.08, B: 0.03",
+        "chords": "C:maj: 21, G#:maj: 216, F:maj: 2, G:maj: 2, Bb:maj: 2, Eb:maj: 13, C#:maj: 27, C:min: 6, F:min: 13, A:maj: 7, F#:maj: 0, D:maj: 1, E:maj: 2, Bb:min: 10, A:min: 0, G:min: 0, C#:min: 1, Eb:min: 0, E:min: 1, G#:min: 0, D:min: 0, F#:min: 0, B:min: 0, B:maj: 1"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/aZYYoDDmg8M?si=hEOW7RmHK-8kZB6I&amp;clip=UgkxskUULpZD5WBO6nUbSppLICyCBW-Luj_E&amp;clipt=EMkeGI6MAQ",
+      "answer": "chopin",
+      "aiPrediction": "mozart",
+      "features": {
+        "pitchClasses": "C: 0.11, C#: 0.08, D: 0.04, D#: 0.15, E: 0.04, F: 0.10, F#: 0.05, G: 0.12, G#: 0.11, A: 0.03, A#: 0.13, B: 0.03",
+        "chords": "C:maj: 33, G#:maj: 59, F:maj: 3, G:maj: 9, Bb:maj: 3, Eb:maj: 36, C#:maj: 31, C:min: 14, F:min: 30, A:maj: 3, F#:maj: 2, D:maj: 4, E:maj: 77, Bb:min: 39, A:min: 1, G:min: 6, C#:min: 14, Eb:min: 21, E:min: 0, G#:min: 36, D:min: 1, F#:min: 0, B:min: 0, B:maj: 2"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/Vkg4onCGFk4?si=LsSQPHjZsMG8FvHE",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.00, C#: 0.05, D: 0.21, D#: 0.00, E: 0.32, F: 0.00, F#: 0.00, G: 0.00, G#: 0.00, A: 0.32, A#: 0.00, B: 0.11",
+        "chords": "C:maj: 0, G#:maj: 0, F:maj: 0, G:maj: 0, Bb:maj: 0, Eb:maj: 0, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 14, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 0, A:min: 0, G:min: 0, C#:min: 1, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 0, F#:min: 0, B:min: 1, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/8kxAkYUIjuc?si=dZQZCsmX_7a335KO&amp;clip=Ugkx8iod9FJJAwgSb6aXYV2W_dtsKBN827As&amp;clipt=ENeCAhjv9wI",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.04, C#: 0.08, D: 0.00, D#: 0.05, E: 0.00, F: 0.08, F#: 0.02, G: 0.00, G#: 0.67, A: 0.00, A#: 0.04, B: 0.00",
+        "chords": "C:maj: 0, G#:maj: 50, F:maj: 0, G:maj: 0, Bb:maj: 0, Eb:maj: 0, C#:maj: 44, C:min: 0, F:min: 12, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 16, Bb:min: 3, A:min: 0, G:min: 0, C#:min: 74, Eb:min: 2, E:min: 0, G#:min: 27, D:min: 0, F#:min: 6, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/90wBhBZjAUQ?si=QZvMZll3ECFYN86r&amp;clip=Ugkxpa8zbTGyY-L-oWD79orjPq55fDd-ttB5&amp;clipt=EAAYmHU",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.14, C#: 0.00, D: 0.04, D#: 0.05, E: 0.13, F: 0.00, F#: 0.13, G: 0.04, G#: 0.03, A: 0.17, A#: 0.04, B: 0.24",
+        "chords": "C:maj: 4, G#:maj: 0, F:maj: 0, G:maj: 0, Bb:maj: 0, Eb:maj: 0, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 2, Bb:min: 0, A:min: 13, G:min: 0, C#:min: 0, Eb:min: 0, E:min: 18, G#:min: 0, D:min: 0, F#:min: 0, B:min: 0, B:maj: 3"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/eotviUMzFKM?si=nJTjGKXiu2ceA0L1",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.12, C#: 0.13, D: 0.03, D#: 0.13, E: 0.07, F: 0.14, F#: 0.10, G: 0.02, G#: 0.06, A: 0.06, A#: 0.12, B: 0.02",
+        "chords": "C:maj: 2, G#:maj: 0, F:maj: 1, G:maj: 0, Bb:maj: 6, Eb:maj: 0, C#:maj: 3, C:min: 0, F:min: 0, A:maj: 0, F#:maj: 1, D:maj: 0, E:maj: 0, Bb:min: 7, A:min: 0, G:min: 0, C#:min: 0, Eb:min: 2, E:min: 0, G#:min: 0, D:min: 0, F#:min: 0, B:min: 0, B:maj: 7"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/_LCy21ddnsM?si=UW6QYHQMNJAk1ixe",
+      "answer": "chopin",
+      "aiPrediction": "mozart",
+      "features": {
+        "pitchClasses": "C: 0.21, C#: 0.01, D: 0.04, D#: 0.02, E: 0.14, F: 0.02, F#: 0.01, G: 0.21, G#: 0.01, A: 0.21, A#: 0.02, B: 0.09",
+        "chords": "C:maj: 29, G#:maj: 0, F:maj: 4, G:maj: 0, Bb:maj: 1, Eb:maj: 0, C#:maj: 0, C:min: 7, F:min: 0, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 0, A:min: 14, G:min: 3, C#:min: 0, Eb:min: 0, E:min: 21, G#:min: 0, D:min: 0, F#:min: 0, B:min: 3, B:maj: 1"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/GYLy-5lPI6w?si=tooJXgFqYjqKaQ27&amp;clip=UgkxLT1WmaWokziHSDXM57NMPoR01wLsClxE&amp;clipt=EAAYmHU",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.04, C#: 0.16, D: 0.01, D#: 0.11, E: 0.03, F: 0.12, F#: 0.18, G: 0.02, G#: 0.13, A: 0.00, A#: 0.12, B: 0.08",
+        "chords": "C:maj: 0, G#:maj: 0, F:maj: 0, G:maj: 0, Bb:maj: 0, Eb:maj: 0, C#:maj: 14, C:min: 0, F:min: 1, A:maj: 0, F#:maj: 77, D:maj: 0, E:maj: 2, Bb:min: 10, A:min: 0, G:min: 0, C#:min: 6, Eb:min: 24, E:min: 0, G#:min: 13, D:min: 0, F#:min: 0, B:min: 0, B:maj: 6"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/T_2FM2qGZZY?si=FAKMrxTJGwMB-2IC",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.04, C#: 0.02, D: 0.19, D#: 0.00, E: 0.11, F: 0.07, F#: 0.13, G: 0.02, G#: 0.02, A: 0.19, A#: 0.00, B: 0.22",
+        "chords": "C:maj: 0, G#:maj: 0, F:maj: 0, G:maj: 5, Bb:maj: 0, Eb:maj: 0, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 1, F#:maj: 0, D:maj: 1, E:maj: 2, Bb:min: 0, A:min: 7, G:min: 2, C#:min: 0, Eb:min: 0, E:min: 3, G#:min: 0, D:min: 4, F#:min: 0, B:min: 0, B:maj: 1"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/LG-E4PVGQSI?si=Fwy57VO-tSVfVg76&amp;clip=UgkxHbwuavSws-jM_52z8c5NVXPbatUCL0Yn&amp;clipt=EAAYmHU",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.05, C#: 0.07, D: 0.03, D#: 0.17, E: 0.03, F: 0.15, F#: 0.05, G: 0.07, G#: 0.19, A: 0.02, A#: 0.13, B: 0.04",
+        "chords": "C:maj: 0, G#:maj: 224, F:maj: 0, G:maj: 0, Bb:maj: 3, Eb:maj: 81, C#:maj: 61, C:min: 0, F:min: 0, A:maj: 0, F#:maj: 39, D:maj: 0, E:maj: 0, Bb:min: 13, A:min: 0, G:min: 0, C#:min: 0, Eb:min: 16, E:min: 0, G#:min: 2, D:min: 0, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/TZh-dbDgjnQ?si=bjnpwCBpRAolB85d",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.00, C#: 0.07, D: 0.03, D#: 0.19, E: 0.18, F: 0.00, F#: 0.07, G: 0.00, G#: 0.25, A: 0.19, A#: 0.01, B: 0.00",
+        "chords": "C:maj: 0, G#:maj: 18, F:maj: 0, G:maj: 0, Bb:maj: 0, Eb:maj: 0, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 3, F#:maj: 0, D:maj: 2, E:maj: 0, Bb:min: 0, A:min: 0, G:min: 0, C#:min: 10, Eb:min: 0, E:min: 0, G#:min: 6, D:min: 0, F#:min: 1, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/-1Y-KEXoaxA?si=gJB0XbdL18sp9TFo&amp;clip=UgkxS1Xi-9mmT10oANqqPxeUwNzSTdoYMIGz&amp;clipt=EAAYmHU",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.04, C#: 0.01, D: 0.08, D#: 0.08, E: 0.05, F: 0.28, F#: 0.05, G: 0.13, G#: 0.00, A: 0.09, A#: 0.19, B: 0.00",
+        "chords": "C:maj: 0, G#:maj: 1, F:maj: 0, G:maj: 0, Bb:maj: 17, Eb:maj: 1, C#:maj: 0, C:min: 1, F:min: 0, A:maj: 0, F#:maj: 30, D:maj: 1, E:maj: 0, Bb:min: 0, A:min: 0, G:min: 3, C#:min: 0, Eb:min: 16, E:min: 0, G#:min: 0, D:min: 0, F#:min: 0, B:min: 0, B:maj: 1"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/XeX4X_1_lo0?si=JJqV77XRZhJYIUuI&amp;clip=UgkxzAkWDZaYe3THxM4tYId-SxQb72PtdqrH&amp;clipt=EAAYmHU",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.00, C#: 0.00, D: 0.25, D#: 0.00, E: 0.00, F: 0.38, F#: 0.25, G: 0.00, G#: 0.00, A: 0.12, A#: 0.00, B: 0.00",
+        "chords": "C:maj: 0, G#:maj: 6, F:maj: 0, G:maj: 6, Bb:maj: 0, Eb:maj: 0, C#:maj: 3, C:min: 12, F:min: 2, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 0, A:min: 0, G:min: 2, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 0, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/QAcAWWU_0mE?si=DLj7AJ7Vn4Be4E7n",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.04, C#: 0.25, D: 0.06, D#: 0.04, E: 0.06, F: 0.03, F#: 0.07, G: 0.02, G#: 0.24, A: 0.11, A#: 0.01, B: 0.05",
+        "chords": "C:maj: 10, G#:maj: 41, F:maj: 5, G:maj: 0, Bb:maj: 0, Eb:maj: 0, C#:maj: 72, C:min: 0, F:min: 4, A:maj: 6, F#:maj: 25, D:maj: 1, E:maj: 16, Bb:min: 0, A:min: 2, G:min: 0, C#:min: 32, Eb:min: 2, E:min: 0, G#:min: 7, D:min: 0, F#:min: 23, B:min: 0, B:maj: 4"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/sGqaeUeTzj0?si=7nV6dtL7yeDdh3jL",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.04, C#: 0.19, D: 0.09, D#: 0.08, E: 0.05, F: 0.08, F#: 0.18, G: 0.02, G#: 0.07, A: 0.07, A#: 0.06, B: 0.08",
+        "chords": "C:maj: 0, G#:maj: 3, F:maj: 1, G:maj: 9, Bb:maj: 6, Eb:maj: 0, C#:maj: 0, C:min: 0, F:min: 1, A:maj: 2, F#:maj: 3, D:maj: 2, E:maj: 0, Bb:min: 2, A:min: 1, G:min: 0, C#:min: 0, Eb:min: 7, E:min: 1, G#:min: 4, D:min: 1, F#:min: 4, B:min: 7, B:maj: 13"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/EEp8z08rRTk?si=intaPObBQ2mu-T60",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.09, C#: 0.08, D: 0.09, D#: 0.13, E: 0.22, F: 0.02, F#: 0.02, G: 0.04, G#: 0.04, A: 0.02, A#: 0.00, B: 0.26",
+        "chords": "C:maj: 5, G#:maj: 3, F:maj: 4, G:maj: 6, Bb:maj: 3, Eb:maj: 1, C#:maj: 0, C:min: 1, F:min: 0, A:maj: 4, F#:maj: 1, D:maj: 3, E:maj: 16, Bb:min: 2, A:min: 3, G:min: 4, C#:min: 0, Eb:min: 2, E:min: 0, G#:min: 4, D:min: 0, F#:min: 2, B:min: 0, B:maj: 13"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/PROCLaNobs8?si=bA3CyYekn0JY2TsD&amp;clip=UgkxZJ-EDSaRkeyujuipc9qAMBWUPXEsI3ec&amp;clipt=EAAYmHU",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.10, C#: 0.04, D: 0.15, D#: 0.02, E: 0.10, F: 0.13, F#: 0.01, G: 0.08, G#: 0.07, A: 0.22, A#: 0.03, B: 0.03",
+        "chords": "C:maj: 1, G#:maj: 1, F:maj: 4, G:maj: 0, Bb:maj: 5, Eb:maj: 0, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 0, A:min: 1, G:min: 0, C#:min: 0, Eb:min: 0, E:min: 2, G#:min: 0, D:min: 9, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/0SBe5k8VClw?si=WZ0EYcQhJ8oiot-s",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.07, C#: 0.05, D: 0.06, D#: 0.19, E: 0.02, F: 0.12, F#: 0.04, G: 0.10, G#: 0.07, A: 0.04, A#: 0.21, B: 0.04",
+        "chords": "C:maj: 0, G#:maj: 0, F:maj: 1, G:maj: 0, Bb:maj: 0, Eb:maj: 2, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 0, A:min: 0, G:min: 0, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 0, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/VBz8D2Hu8RI?si=yLjCJ1dScx6rpHuN",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.04, C#: 0.09, D: 0.18, D#: 0.06, E: 0.17, F: 0.07, F#: 0.04, G: 0.03, G#: 0.03, A: 0.17, A#: 0.04, B: 0.10",
+        "chords": "C:maj: 0, G#:maj: 0, F:maj: 13, G:maj: 2, Bb:maj: 5, Eb:maj: 0, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 13, F#:maj: 0, D:maj: 0, E:maj: 13, Bb:min: 0, A:min: 12, G:min: 0, C#:min: 0, Eb:min: 0, E:min: 9, G#:min: 0, D:min: 21, F#:min: 20, B:min: 10, B:maj: 3"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/H1_2K8K2W3U?si=pjQkd-PYylgsaBgy",
+      "answer": "chopin",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.13, C#: 0.03, D: 0.10, D#: 0.03, E: 0.06, F: 0.25, F#: 0.00, G: 0.10, G#: 0.00, A: 0.11, A#: 0.18, B: 0.00",
+        "chords": "C:maj: 0, G#:maj: 0, F:maj: 8, G:maj: 0, Bb:maj: 40, Eb:maj: 0, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 0, F#:maj: 12, D:maj: 0, E:maj: 0, Bb:min: 4, A:min: 8, G:min: 2, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 0, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/5uoOcInPQNg?si=oSIr70ArrOMvQR2G&amp;clip=UgkxmSxyi4JdqRYB9L557RvJ6LXqJt30Es6t&amp;clipt=EIiNFxigghg",
+      "answer": "beethoven",
+      "aiPrediction": "beethoven",
+      "features": {
+        "pitchClasses": "C: 0.03, C#: 0.08, D: 0.02, D#: 0.07, E: 0.13, F: 0.02, F#: 0.13, G: 0.02, G#: 0.11, A: 0.09, A#: 0.03, B: 0.26",
+        "chords": "C:maj: 12, G#:maj: 2, F:maj: 0, G:maj: 3, Bb:maj: 1, Eb:maj: 0, C#:maj: 9, C:min: 9, F:min: 0, A:maj: 34, F#:maj: 9, D:maj: 5, E:maj: 111, Bb:min: 2, A:min: 4, G:min: 1, C#:min: 33, Eb:min: 2, E:min: 2, G#:min: 7, D:min: 7, F#:min: 10, B:min: 0, B:maj: 89"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/5uoOcInPQNg?si=x2nHcbKRLbnOeSkj&amp;clip=UgkxtfDkOGAi_je0tW9BaAqT0JcyXMrQEkat&amp;clipt=EAAYmHU",
+      "answer": "beethoven",
+      "aiPrediction": "haydn",
+      "features": {
+        "pitchClasses": "C: 0.08, C#: 0.03, D: 0.08, D#: 0.03, E: 0.16, F: 0.04, F#: 0.13, G: 0.15, G#: 0.02, A: 0.10, A#: 0.03, B: 0.17",
+        "chords": "C:maj: 10, G#:maj: 1, F:maj: 15, G:maj: 13, Bb:maj: 0, Eb:maj: 5, C#:maj: 0, C:min: 1, F:min: 0, A:maj: 0, F#:maj: 4, D:maj: 10, E:maj: 13, Bb:min: 1, A:min: 16, G:min: 2, C#:min: 0, Eb:min: 4, E:min: 39, G#:min: 0, D:min: 0, F#:min: 0, B:min: 24, B:maj: 2"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/SrcOcKYQX3c?si=qsjIK3EFlBFW0G6W&amp;clip=UgkxaOfDtlzJ_JE80ODtgYxUjWRRFHBRL2Lx&amp;clipt=EKXnIxi93CQ",
+      "answer": "beethoven",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.10, C#: 0.10, D: 0.03, D#: 0.23, E: 0.03, F: 0.08, F#: 0.00, G: 0.12, G#: 0.15, A: 0.01, A#: 0.14, B: 0.01",
+        "chords": "C:maj: 4, G#:maj: 48, F:maj: 8, G:maj: 0, Bb:maj: 2, Eb:maj: 32, C#:maj: 0, C:min: 4, F:min: 12, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 17, Bb:min: 18, A:min: 0, G:min: 0, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 13, D:min: 0, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/FjmzBuRnIHk?si=3km4T100Z2172bF6&amp;clip=UgkxR22ZnnCXO-X5AS_GBoLmYOTkhzHYxAm0&amp;clipt=EAAYmHU",
+      "answer": "beethoven",
+      "aiPrediction": "beethoven",
+      "features": {
+        "pitchClasses": "C: 0.13, C#: 0.09, D: 0.03, D#: 0.26, E: 0.02, F: 0.07, F#: 0.01, G: 0.09, G#: 0.16, A: 0.02, A#: 0.09, B: 0.03",
+        "chords": "C:maj: 0, G#:maj: 103, F:maj: 0, G:maj: 0, Bb:maj: 0, Eb:maj: 39, C#:maj: 14, C:min: 5, F:min: 1, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 3, Bb:min: 8, A:min: 0, G:min: 3, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 4, D:min: 0, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/4591dCHe_sE?si=fNzHKq71XCsS1F_E&amp;clip=UgkxEw-tY3TJrYpEYafImjCGrkVo_wHqmc9a&amp;clipt=EIHeGxiZ0xw",
+      "answer": "beethoven",
+      "aiPrediction": "beethoven",
+      "features": {
+        "pitchClasses": "C: 0.05, C#: 0.16, D: 0.02, D#: 0.08, E: 0.12, F: 0.02, F#: 0.14, G: 0.04, G#: 0.18, A: 0.09, A#: 0.01, B: 0.09",
+        "chords": "C:maj: 5, G#:maj: 26, F:maj: 0, G:maj: 6, Bb:maj: 0, Eb:maj: 0, C#:maj: 4, C:min: 0, F:min: 0, A:maj: 1, F#:maj: 1, D:maj: 6, E:maj: 9, Bb:min: 0, A:min: 0, G:min: 0, C#:min: 53, Eb:min: 0, E:min: 4, G#:min: 0, D:min: 0, F#:min: 18, B:min: 2, B:maj: 9"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/GuMzYleEPRE?si=Iq-pn9x0-8nVTGZp&amp;clip=UgkxwEN-2tOi8UyjLx7k6DgfPQvTQjCyiB0N&amp;clipt=EAAYmHU",
+      "answer": "beethoven",
+      "aiPrediction": "beethoven",
+      "features": {
+        "pitchClasses": "C: 0.16, C#: 0.02, D: 0.07, D#: 0.16, E: 0.03, F: 0.11, F#: 0.02, G: 0.15, G#: 0.06, A: 0.03, A#: 0.14, B: 0.04",
+        "chords": "C:maj: 6, G#:maj: 16, F:maj: 0, G:maj: 13, Bb:maj: 6, Eb:maj: 20, C#:maj: 6, C:min: 78, F:min: 16, A:maj: 0, F#:maj: 6, D:maj: 2, E:maj: 1, Bb:min: 1, A:min: 0, G:min: 0, C#:min: 0, Eb:min: 3, E:min: 0, G#:min: 2, D:min: 0, F#:min: 2, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/s71I_EWJk7I?si=uqTtC9EYxWi2DSYV&amp;clip=Ugkxx7nqZ7lGHJnruG8lJ6bjXh-CelapC1UY&amp;clipt=EPYWGPu5AQ",
+      "answer": "beethoven",
+      "aiPrediction": "beethoven",
+      "features": {
+        "pitchClasses": "C: 0.11, C#: 0.00, D: 0.05, D#: 0.07, E: 0.32, F: 0.02, F#: 0.00, G: 0.03, G#: 0.03, A: 0.24, A#: 0.03, B: 0.09",
+        "chords": "C:maj: 5, G#:maj: 0, F:maj: 1, G:maj: 0, Bb:maj: 11, Eb:maj: 4, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 2, F#:maj: 0, D:maj: 0, E:maj: 1, Bb:min: 0, A:min: 17, G:min: 0, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 20, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/IK3q6QckYMw?si=2CclCXFq8QW0KnQx",
+      "answer": "beethoven",
+      "aiPrediction": "beethoven",
+      "features": {
+        "pitchClasses": "C: 0.18, C#: 0.05, D: 0.18, D#: 0.06, E: 0.03, F: 0.10, F#: 0.05, G: 0.13, G#: 0.05, A: 0.07, A#: 0.06, B: 0.04",
+        "chords": "C:maj: 9, G#:maj: 2, F:maj: 3, G:maj: 3, Bb:maj: 0, Eb:maj: 1, C#:maj: 7, C:min: 5, F:min: 10, A:maj: 0, F#:maj: 1, D:maj: 4, E:maj: 0, Bb:min: 3, A:min: 0, G:min: 5, C#:min: 0, Eb:min: 0, E:min: 3, G#:min: 0, D:min: 0, F#:min: 3, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/XljW3y3bumg?si=KZs5EUaqRYVOzLuW&amp;clip=Ugkxm3emc6uCl8aX8BoT7SeFjQM14J7W9EvG&amp;clipt=ENTKAxjsvwQ",
+      "answer": "beethoven",
+      "aiPrediction": "beethoven",
+      "features": {
+        "pitchClasses": "C: 0.16, C#: 0.02, D: 0.11, D#: 0.04, E: 0.11, F: 0.09, F#: 0.02, G: 0.24, G#: 0.03, A: 0.06, A#: 0.02, B: 0.10",
+        "chords": "C:maj: 104, G#:maj: 26, F:maj: 14, G:maj: 80, Bb:maj: 8, Eb:maj: 6, C#:maj: 42, C:min: 24, F:min: 33, A:maj: 0, F#:maj: 4, D:maj: 0, E:maj: 0, Bb:min: 13, A:min: 17, G:min: 0, C#:min: 0, Eb:min: 22, E:min: 2, G#:min: 3, D:min: 9, F#:min: 0, B:min: 0, B:maj: 5"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/9oIdtq9E2ZU?si=kUkMFfQtol3d8ear&amp;clip=UgkxAp7y5lIuA8HD6CXEieJeKSmZGW4QusFa&amp;clipt=EO6YARiFjgI",
+      "answer": "beethoven",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.19, C#: 0.11, D: 0.01, D#: 0.11, E: 0.08, F: 0.09, F#: 0.03, G: 0.07, G#: 0.15, A: 0.02, A#: 0.08, B: 0.04",
+        "chords": "C:maj: 136, G#:maj: 59, F:maj: 44, G:maj: 6, Bb:maj: 0, Eb:maj: 17, C#:maj: 73, C:min: 5, F:min: 112, A:maj: 5, F#:maj: 18, D:maj: 0, E:maj: 14, Bb:min: 40, A:min: 0, G:min: 0, C#:min: 10, Eb:min: 3, E:min: 0, G#:min: 22, D:min: 0, F#:min: 6, B:min: 6, B:maj: 2"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/LQ_2NQqd48o?si=xidhUoWRIieX4YD4&amp;clip=Ugkxp6_1PdnKv_p0bhaJ0d1TVKZbfcwLR3VW&amp;clipt=EAAYmHU",
+      "answer": "beethoven",
+      "aiPrediction": "beethoven",
+      "features": {
+        "pitchClasses": "C: 0.06, C#: 0.04, D: 0.07, D#: 0.21, E: 0.02, F: 0.12, F#: 0.05, G: 0.08, G#: 0.08, A: 0.02, A#: 0.20, B: 0.05",
+        "chords": "C:maj: 0, G#:maj: 10, F:maj: 0, G:maj: 0, Bb:maj: 20, Eb:maj: 104, C#:maj: 0, C:min: 0, F:min: 4, A:maj: 0, F#:maj: 3, D:maj: 0, E:maj: 3, Bb:min: 3, A:min: 0, G:min: 0, C#:min: 0, Eb:min: 18, E:min: 0, G#:min: 5, D:min: 0, F#:min: 0, B:min: 0, B:maj: 4"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/yRDcgjvjj2E?si=__Gw4VX3qL9Z7vmz&amp;clip=UgkxPXsMhhwBKxepXwIIv5fOHk33K9LFm69H&amp;clipt=EAAYmHU",
+      "answer": "beethoven",
+      "aiPrediction": "beethoven",
+      "features": {
+        "pitchClasses": "C: 0.09, C#: 0.07, D: 0.10, D#: 0.09, E: 0.07, F: 0.10, F#: 0.07, G: 0.10, G#: 0.06, A: 0.08, A#: 0.10, B: 0.06",
+        "chords": "C:maj: 12, G#:maj: 16, F:maj: 15, G:maj: 23, Bb:maj: 24, Eb:maj: 29, C#:maj: 13, C:min: 17, F:min: 8, A:maj: 33, F#:maj: 19, D:maj: 22, E:maj: 5, Bb:min: 12, A:min: 4, G:min: 18, C#:min: 7, Eb:min: 26, E:min: 15, G#:min: 20, D:min: 6, F#:min: 5, B:min: 20, B:maj: 12"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/1PcrGQCGFlg?si=bxjqBMqFXl9xOLKl&amp;clip=Ugkx0RspXoVNlK5dHR-Zj9ZSbzDNHRjcIPlf&amp;clipt=EIuQOxijhTw",
+      "answer": "beethoven",
+      "aiPrediction": "mozart",
+      "features": {
+        "pitchClasses": "C: 0.10, C#: 0.02, D: 0.16, D#: 0.11, E: 0.02, F: 0.13, F#: 0.05, G: 0.11, G#: 0.01, A: 0.10, A#: 0.13, B: 0.04",
+        "chords": "C:maj: 0, G#:maj: 4, F:maj: 9, G:maj: 4, Bb:maj: 3, Eb:maj: 3, C#:maj: 0, C:min: 11, F:min: 0, A:maj: 6, F#:maj: 0, D:maj: 43, E:maj: 0, Bb:min: 0, A:min: 2, G:min: 47, C#:min: 2, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 2, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/8TwysjbPmus?si=Y4zq7BFn3MUSjOXW",
+      "answer": "beethoven",
+      "aiPrediction": "beethoven",
+      "features": {
+        "pitchClasses": "C: 0.10, C#: 0.04, D: 0.14, D#: 0.08, E: 0.05, F: 0.11, F#: 0.07, G: 0.12, G#: 0.03, A: 0.08, A#: 0.10, B: 0.08",
+        "chords": "C:maj: 20, G#:maj: 10, F:maj: 20, G:maj: 74, Bb:maj: 146, Eb:maj: 60, C#:maj: 10, C:min: 67, F:min: 17, A:maj: 2, F#:maj: 31, D:maj: 48, E:maj: 3, Bb:min: 4, A:min: 10, G:min: 19, C#:min: 1, Eb:min: 19, E:min: 29, G#:min: 2, D:min: 16, F#:min: 0, B:min: 30, B:maj: 13"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/TKqFl6Tb4bw?si=ahuWerApvxozpsUr",
+      "answer": "beethoven",
+      "aiPrediction": "beethoven",
+      "features": {
+        "pitchClasses": "C: 0.02, C#: 0.18, D: 0.07, D#: 0.05, E: 0.05, F: 0.05, F#: 0.15, G: 0.09, G#: 0.09, A: 0.12, A#: 0.05, B: 0.10",
+        "chords": "C:maj: 12, G#:maj: 0, F:maj: 0, G:maj: 42, Bb:maj: 0, Eb:maj: 14, C#:maj: 89, C:min: 0, F:min: 2, A:maj: 19, F#:maj: 76, D:maj: 31, E:maj: 1, Bb:min: 1, A:min: 0, G:min: 1, C#:min: 0, Eb:min: 6, E:min: 8, G#:min: 4, D:min: 1, F#:min: 101, B:min: 32, B:maj: 19"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/Dtp0FGrg_QM?si=Y5O96J4f91_7V3qh&amp;clip=UgkxGhlobTv69MobCdimzdFpJWN9t9vjJPfL&amp;clipt=EPlCGNalAg",
+      "answer": "haydn",
+      "aiPrediction": "haydn",
+      "features": {
+        "pitchClasses": "C: 0.13, C#: 0.07, D: 0.05, D#: 0.19, E: 0.01, F: 0.10, F#: 0.01, G: 0.11, G#: 0.18, A: 0.00, A#: 0.14, B: 0.01",
+        "chords": "C:maj: 4, G#:maj: 18, F:maj: 0, G:maj: 0, Bb:maj: 12, Eb:maj: 25, C#:maj: 0, C:min: 10, F:min: 8, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 0, A:min: 0, G:min: 0, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 0, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/Dtp0FGrg_QM?si=2oyIGoi-wW8Q1WY2&amp;clip=UgkxygMsapqU-2qz08G-NEYIRg_OmQzR5EdK&amp;clipt=EO2KHxiFgCA",
+      "answer": "haydn",
+      "aiPrediction": "haydn",
+      "features": {
+        "pitchClasses": "C: 0.14, C#: 0.06, D: 0.04, D#: 0.30, E: 0.00, F: 0.09, F#: 0.00, G: 0.07, G#: 0.19, A: 0.01, A#: 0.10, B: 0.00",
+        "chords": "C:maj: 0, G#:maj: 3, F:maj: 0, G:maj: 0, Bb:maj: 0, Eb:maj: 8, C#:maj: 3, C:min: 0, F:min: 12, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 6, A:min: 0, G:min: 0, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 0, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/Dtp0FGrg_QM?si=uotZDGprg2utEtq6&amp;clip=Ugkxn75IU_SxDv7MFJPvYN6vUeZ0dVngV-cJ&amp;clipt=EP7aJxiW0Cg",
+      "answer": "haydn",
+      "aiPrediction": "haydn",
+      "features": {
+        "pitchClasses": "C: 0.14, C#: 0.09, D: 0.04, D#: 0.21, E: 0.01, F: 0.09, F#: 0.01, G: 0.09, G#: 0.17, A: 0.00, A#: 0.13, B: 0.02",
+        "chords": "C:maj: 14, G#:maj: 11, F:maj: 0, G:maj: 0, Bb:maj: 4, Eb:maj: 2, C#:maj: 12, C:min: 2, F:min: 10, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 0, A:min: 0, G:min: 1, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 0, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/JBIg8-ZcfxM?si=DT-P_DCNmozh8N7R&amp;clip=UgkxnApL4_0obmwnNdSgf0yG1ZBJ91-6MrI6&amp;clipt=EIewBBjowwU",
+      "answer": "haydn",
+      "aiPrediction": "chopin",
+      "features": {
+        "pitchClasses": "C: 0.13, C#: 0.01, D: 0.21, D#: 0.00, E: 0.07, F: 0.01, F#: 0.06, G: 0.26, G#: 0.01, A: 0.11, A#: 0.00, B: 0.14",
+        "chords": "C:maj: 0, G#:maj: 0, F:maj: 0, G:maj: 6, Bb:maj: 0, Eb:maj: 0, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 0, A:min: 0, G:min: 0, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 0, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/0M_1YQIqzxk?si=iv-ve1McC-xic7OM&amp;clip=Ugkxivyx0jtypPMW8iDkz_BoeyEg39L875lq&amp;clipt=EKlSGOrMAg",
+      "answer": "haydn",
+      "aiPrediction": "haydn",
+      "features": {
+        "pitchClasses": "C: 0.08, C#: 0.03, D: 0.26, D#: 0.02, E: 0.07, F: 0.01, F#: 0.11, G: 0.18, G#: 0.00, A: 0.12, A#: 0.03, B: 0.08",
+        "chords": "C:maj: 28, G#:maj: 0, F:maj: 0, G:maj: 97, Bb:maj: 4, Eb:maj: 0, C#:maj: 0, C:min: 8, F:min: 0, A:maj: 2, F#:maj: 0, D:maj: 100, E:maj: 2, Bb:min: 0, A:min: 28, G:min: 40, C#:min: 0, Eb:min: 0, E:min: 14, G#:min: 0, D:min: 26, F#:min: 8, B:min: 8, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/MLBMCzRAS38?si=4YSmBNPihKyQbImh&amp;clip=Ugkxc5Hwl9_z5cJ8CJ2qb-nmmQXylzJiy2js&amp;clipt=EINFGJu6AQ",
+      "answer": "haydn",
+      "aiPrediction": "haydn",
+      "features": {
+        "pitchClasses": "C: 0.28, C#: 0.00, D: 0.03, D#: 0.00, E: 0.12, F: 0.23, F#: 0.00, G: 0.13, G#: 0.00, A: 0.13, A#: 0.08, B: 0.01",
+        "chords": "C:maj: 8, G#:maj: 0, F:maj: 32, G:maj: 0, Bb:maj: 0, Eb:maj: 0, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 0, A:min: 0, G:min: 0, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 0, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/MLBMCzRAS38?si=Bqacg2sX3wXwxR6e&amp;clip=UgkxVp8jP5JWSgpNOEmh02-9G_jzjmxhwvhb&amp;clipt=EKTWDRid9A4",
+      "answer": "haydn",
+      "aiPrediction": "haydn",
+      "features": {
+        "pitchClasses": "C: 0.22, C#: 0.00, D: 0.10, D#: 0.00, E: 0.08, F: 0.20, F#: 0.00, G: 0.18, G#: 0.00, A: 0.12, A#: 0.08, B: 0.01",
+        "chords": "C:maj: 2, G#:maj: 0, F:maj: 42, G:maj: 0, Bb:maj: 12, Eb:maj: 0, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 0, A:min: 0, G:min: 12, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 0, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/WZ_dZQY6ER8?si=2TlMbPNkrWXje2Bn&amp;clip=Ugkxc8fgLEZi34V8bDCHTWfVP0PhjqaJuxx_&amp;clipt=EPwuGLLmAQ",
+      "answer": "haydn",
+      "aiPrediction": "haydn",
+      "features": {
+        "pitchClasses": "C: 0.23, C#: 0.00, D: 0.15, D#: 0.04, E: 0.07, F: 0.07, F#: 0.02, G: 0.26, G#: 0.02, A: 0.06, A#: 0.00, B: 0.08",
+        "chords": "C:maj: 23, G#:maj: 0, F:maj: 0, G:maj: 18, Bb:maj: 0, Eb:maj: 0, C#:maj: 0, C:min: 6, F:min: 0, A:maj: 0, F#:maj: 0, D:maj: 4, E:maj: 0, Bb:min: 0, A:min: 0, G:min: 2, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 0, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/8LRWrPlkQCU?si=YaTcQUoxU8kzOwOH&amp;clip=Ugkxa3SXRAQgtYaiwbMotN72aoxwSxn2Fnp3&amp;clipt=ELwZGNOOAQ",
+      "answer": "haydn",
+      "aiPrediction": "haydn",
+      "features": {
+        "pitchClasses": "C: 0.02, C#: 0.10, D: 0.16, D#: 0.03, E: 0.14, F: 0.01, F#: 0.12, G: 0.08, G#: 0.04, A: 0.15, A#: 0.02, B: 0.13",
+        "chords": "C:maj: 0, G#:maj: 0, F:maj: 0, G:maj: 20, Bb:maj: 0, Eb:maj: 0, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 25, F#:maj: 2, D:maj: 16, E:maj: 4, Bb:min: 0, A:min: 0, G:min: 0, C#:min: 1, Eb:min: 1, E:min: 5, G#:min: 2, D:min: 0, F#:min: 1, B:min: 21, B:maj: 2"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/XWygAD4CdZU?si=mnBtc_E1y3Fz7zDH&amp;clip=Ugkxcd3i52jZpKpbjU8qQvFizXngQmTgdD-o&amp;clipt=EK2WMRjFizI",
+      "answer": "haydn",
+      "aiPrediction": "haydn",
+      "features": {
+        "pitchClasses": "C: 0.03, C#: 0.07, D: 0.21, D#: 0.01, E: 0.11, F: 0.07, F#: 0.10, G: 0.13, G#: 0.01, A: 0.18, A#: 0.04, B: 0.05",
+        "chords": "C:maj: 4, G#:maj: 0, F:maj: 28, G:maj: 0, Bb:maj: 10, Eb:maj: 6, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 13, F#:maj: 0, D:maj: 17, E:maj: 0, Bb:min: 0, A:min: 2, G:min: 10, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 12, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/TXnZAMZxCk4?si=WNGzioGOdLLHyy88&amp;clip=UgkxRG8BwsPUOAD-ojxfEXIteQVvNSievpRI&amp;clipt=ENeOGhiuuRs",
+      "answer": "haydn",
+      "aiPrediction": "haydn",
+      "features": {
+        "pitchClasses": "C: 0.23, C#: 0.01, D: 0.08, D#: 0.01, E: 0.09, F: 0.15, F#: 0.01, G: 0.19, G#: 0.00, A: 0.11, A#: 0.08, B: 0.02",
+        "chords": "C:maj: 12, G#:maj: 0, F:maj: 28, G:maj: 0, Bb:maj: 4, Eb:maj: 0, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 0, A:min: 0, G:min: 0, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 0, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/6wiQE4LS9No?si=rpkXR4IbBu9krmwz&amp;clip=UgkxWKliGgCXTcnLD19TjRWqoTfBTAdxxh1e&amp;clipt=EOOKGBjorRk",
+      "answer": "mozart",
+      "aiPrediction": "mozart",
+      "features": {
+        "pitchClasses": "C: 0.14, C#: 0.03, D: 0.06, D#: 0.18, E: 0.02, F: 0.09, F#: 0.03, G: 0.13, G#: 0.10, A: 0.03, A#: 0.15, B: 0.05",
+        "chords": "C:maj: 19, G#:maj: 30, F:maj: 4, G:maj: 6, Bb:maj: 29, Eb:maj: 59, C#:maj: 7, C:min: 39, F:min: 15, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 2, A:min: 0, G:min: 9, C#:min: 0, Eb:min: 3, E:min: 0, G#:min: 0, D:min: 2, F#:min: 0, B:min: 0, B:maj: 2"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/6wiQE4LS9No?si=OgUjWwIl25ZgMB77&amp;clip=UgkxRZ_iXVd3HCC8H-PQGN6r32GNlBOeivLS&amp;clipt=EOuaNxiDkDg",
+      "answer": "mozart",
+      "aiPrediction": "beethoven",
+      "features": {
+        "pitchClasses": "C: 0.14, C#: 0.02, D: 0.11, D#: 0.09, E: 0.04, F: 0.16, F#: 0.02, G: 0.07, G#: 0.01, A: 0.08, A#: 0.24, B: 0.02",
+        "chords": "C:maj: 0, G#:maj: 8, F:maj: 19, G:maj: 6, Bb:maj: 64, Eb:maj: 41, C#:maj: 0, C:min: 5, F:min: 0, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 0, A:min: 0, G:min: 5, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 2, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/IRrBvUCFVUI?si=sBxkalkaUpdQxRfO",
+      "answer": "mozart",
+      "aiPrediction": "mozart",
+      "features": {
+        "pitchClasses": "C: 0.20, C#: 0.06, D: 0.06, D#: 0.05, E: 0.07, F: 0.27, F#: 0.01, G: 0.10, G#: 0.04, A: 0.05, A#: 0.06, B: 0.02",
+        "chords": "C:maj: 62, G#:maj: 2, F:maj: 88, G:maj: 0, Bb:maj: 18, Eb:maj: 0, C#:maj: 10, C:min: 3, F:min: 41, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 8, A:min: 0, G:min: 9, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 13, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/eY2ZOc8oFlM?si=VFuoQBIkwPyvl8ee&amp;clip=UgkxbcifzfQ-CpLtQxpkbp9FAB20OUEycZuk&amp;clipt=EOk_GIbtAQ",
+      "answer": "mozart",
+      "aiPrediction": "mozart",
+      "features": {
+        "pitchClasses": "C: 0.18, C#: 0.02, D: 0.09, D#: 0.04, E: 0.07, F: 0.17, F#: 0.02, G: 0.15, G#: 0.04, A: 0.12, A#: 0.07, B: 0.03",
+        "chords": "C:maj: 108, G#:maj: 4, F:maj: 52, G:maj: 42, Bb:maj: 28, Eb:maj: 0, C#:maj: 4, C:min: 28, F:min: 12, A:maj: 10, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 0, A:min: 18, G:min: 18, C#:min: 0, Eb:min: 0, E:min: 4, G#:min: 0, D:min: 30, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/kILL_HLaDkA?si=hmnKwg3SxXcpgfM7",
+      "answer": "mozart",
+      "aiPrediction": "mozart",
+      "features": {
+        "pitchClasses": "C: 0.18, C#: 0.01, D: 0.14, D#: 0.01, E: 0.12, F: 0.08, F#: 0.03, G: 0.27, G#: 0.01, A: 0.06, A#: 0.01, B: 0.09",
+        "chords": "C:maj: 78, G#:maj: 0, F:maj: 14, G:maj: 128, Bb:maj: 0, Eb:maj: 0, C#:maj: 0, C:min: 4, F:min: 2, A:maj: 2, F#:maj: 2, D:maj: 20, E:maj: 0, Bb:min: 0, A:min: 4, G:min: 0, C#:min: 0, Eb:min: 0, E:min: 4, G#:min: 0, D:min: 22, F#:min: 0, B:min: 0, B:maj: 2"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/qjk-YRuQZDE?si=GFzbf65WjQbAuU5D&amp;clip=UgkxQzVSCHdiC3tkbu9ules1PM6xM2tfo9gk&amp;clipt=EIAkGM56",
+      "answer": "mozart",
+      "aiPrediction": "mozart",
+      "features": {
+        "pitchClasses": "C: 0.14, C#: 0.02, D: 0.16, D#: 0.00, E: 0.12, F: 0.10, F#: 0.03, G: 0.19, G#: 0.01, A: 0.11, A#: 0.02, B: 0.11",
+        "chords": "C:maj: 14, G#:maj: 0, F:maj: 8, G:maj: 8, Bb:maj: 2, Eb:maj: 0, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 0, A:min: 24, G:min: 0, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 32, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/h06swIzqXyI?si=bPpH-qnYb7QeYd-J&amp;clip=UgkxRfpIIytNcDOaw-f2i3CA6SKX2fWGUkdm&amp;clipt=EKNeGLvTAQ",
+      "answer": "mozart",
+      "aiPrediction": "mozart",
+      "features": {
+        "pitchClasses": "C: 0.16, C#: 0.03, D: 0.10, D#: 0.10, E: 0.04, F: 0.22, F#: 0.01, G: 0.09, G#: 0.03, A: 0.08, A#: 0.15, B: 0.00",
+        "chords": "C:maj: 7, G#:maj: 0, F:maj: 26, G:maj: 0, Bb:maj: 22, Eb:maj: 5, C#:maj: 0, C:min: 7, F:min: 0, A:maj: 0, F#:maj: 0, D:maj: 0, E:maj: 0, Bb:min: 0, A:min: 1, G:min: 7, C#:min: 0, Eb:min: 0, E:min: 0, G#:min: 0, D:min: 4, F#:min: 0, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/3mJagcvhDt4?si=-AjpW7gZXUs6TaAT&amp;clip=Ugkxh9w05vsRoke-6SRfjs9MlIjMVHVJkiIP&amp;clipt=EMrTAhjiyAM",
+      "answer": "mozart",
+      "aiPrediction": "mozart",
+      "features": {
+        "pitchClasses": "C: 0.02, C#: 0.10, D: 0.16, D#: 0.01, E: 0.15, F: 0.00, F#: 0.13, G: 0.10, G#: 0.03, A: 0.17, A#: 0.01, B: 0.12",
+        "chords": "C:maj: 3, G#:maj: 0, F:maj: 0, G:maj: 27, Bb:maj: 0, Eb:maj: 0, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 52, F#:maj: 2, D:maj: 73, E:maj: 12, Bb:min: 0, A:min: 0, G:min: 0, C#:min: 3, Eb:min: 0, E:min: 12, G#:min: 0, D:min: 0, F#:min: 12, B:min: 17, B:maj: 3"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/oTS1fohQNec?si=3MikFNvL9FkFisOV&amp;clip=Ugkx8KCwjBDDON9oJefWP4y68PFGcBcrgcDU&amp;clipt=EJ-2Mxik2TQ",
+      "answer": "mozart",
+      "aiPrediction": "haydn",
+      "features": {
+        "pitchClasses": "C: 0.12, C#: 0.01, D: 0.14, D#: 0.12, E: 0.02, F: 0.17, F#: 0.01, G: 0.09, G#: 0.02, A: 0.08, A#: 0.19, B: 0.01",
+        "chords": "C:maj: 2, G#:maj: 3, F:maj: 42, G:maj: 3, Bb:maj: 71, Eb:maj: 36, C#:maj: 0, C:min: 15, F:min: 1, A:maj: 0, F#:maj: 4, D:maj: 8, E:maj: 0, Bb:min: 9, A:min: 2, G:min: 11, C#:min: 0, Eb:min: 1, E:min: 1, G#:min: 0, D:min: 13, F#:min: 1, B:min: 0, B:maj: 0"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/oTS1fohQNec?si=inaN4eL8KIGpdl3Q&amp;clip=UgkxgpmbbTG90KdN_tmRntRYMuT8MDmYx4RD&amp;clipt=ELXNGxjD2Rw",
+      "answer": "mozart",
+      "aiPrediction": "mozart",
+      "features": {
+        "pitchClasses": "C: 0.08, C#: 0.03, D: 0.08, D#: 0.16, E: 0.01, F: 0.17, F#: 0.02, G: 0.13, G#: 0.11, A: 0.02, A#: 0.16, B: 0.02",
+        "chords": "C:maj: 2, G#:maj: 24, F:maj: 6, G:maj: 0, Bb:maj: 44, Eb:maj: 64, C#:maj: 2, C:min: 26, F:min: 28, A:maj: 0, F#:maj: 2, D:maj: 0, E:maj: 2, Bb:min: 0, A:min: 0, G:min: 0, C#:min: 8, Eb:min: 4, E:min: 0, G#:min: 6, D:min: 0, F#:min: 0, B:min: 0, B:maj: 4"
+      }
+    },
+    {
+      "audio": "https://www.youtube.com/embed/3mJagcvhDt4?si=tCYtTzwXetkAq9Q9&amp;clip=UgkxruhmxbPaZ7IDPQQsAvRr-FyqGCBxE5Wp&amp;clipt=EJ28Ihi1sSM",
+      "answer": "mozart",
+      "aiPrediction": "mozart",
+      "features": {
+        "pitchClasses": "C: 0.07, C#: 0.09, D: 0.08, D#: 0.02, E: 0.14, F: 0.04, F#: 0.05, G: 0.01, G#: 0.08, A: 0.29, A#: 0.00, B: 0.12",
+        "chords": "C:maj: 16, G#:maj: 0, F:maj: 0, G:maj: 8, Bb:maj: 0, Eb:maj: 0, C#:maj: 0, C:min: 0, F:min: 0, A:maj: 72, F#:maj: 0, D:maj: 29, E:maj: 28, Bb:min: 0, A:min: 28, G:min: 0, C#:min: 8, Eb:min: 0, E:min: 12, G#:min: 0, D:min: 0, F#:min: 12, B:min: 6, B:maj: 4"
+      }
+    }
+  ]
+}
