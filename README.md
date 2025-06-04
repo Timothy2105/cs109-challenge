@@ -3,7 +3,7 @@ python -m venv venv
 source venv/bin/activate
 
 # install packages
-pip install music21 pandas
+pip install music21 pandas scikit-learn
 
 # setup
 python3 make_labels.py
